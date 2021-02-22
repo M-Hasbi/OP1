@@ -18,6 +18,7 @@ namespace OP1.DataBaseLogicLayer
         int ReturnValues;
         public DLL()
         {
+            //huseyin 
             connection = new SqlConnection(@"Data Source=OLAF\SQLEXPRESS; Initial Catalog =PhoneBook; User ID=OLAF\CEM");
 
         }
