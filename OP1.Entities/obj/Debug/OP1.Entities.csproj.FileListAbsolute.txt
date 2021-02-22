@@ -1,0 +1,6 @@
+C:\Users\CEM\source\repos\OP1\OP1.Entities\bin\Debug\OP1.Entities.dll
+C:\Users\CEM\source\repos\OP1\OP1.Entities\bin\Debug\OP1.Entities.pdb
+C:\Users\CEM\source\repos\OP1\OP1.Entities\obj\Debug\OP1.Entities.csprojAssemblyReference.cache
+C:\Users\CEM\source\repos\OP1\OP1.Entities\obj\Debug\OP1.Entities.csproj.CoreCompileInputs.cache
+C:\Users\CEM\source\repos\OP1\OP1.Entities\obj\Debug\OP1.Entities.dll
+C:\Users\CEM\source\repos\OP1\OP1.Entities\obj\Debug\OP1.Entities.pdb

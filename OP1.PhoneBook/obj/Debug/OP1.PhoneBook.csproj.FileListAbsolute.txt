@@ -1,0 +1,17 @@
+C:\Users\CEM\source\repos\OP1\OP1.PhoneBook\bin\Debug\OP1.PhoneBook.exe.config
+C:\Users\CEM\source\repos\OP1\OP1.PhoneBook\bin\Debug\OP1.PhoneBook.exe
+C:\Users\CEM\source\repos\OP1\OP1.PhoneBook\bin\Debug\OP1.PhoneBook.pdb
+C:\Users\CEM\source\repos\OP1\OP1.PhoneBook\bin\Debug\OP1.BussinessLogicLayer.dll
+C:\Users\CEM\source\repos\OP1\OP1.PhoneBook\bin\Debug\OP1.Entities.dll
+C:\Users\CEM\source\repos\OP1\OP1.PhoneBook\bin\Debug\OP1.DataBaseLogicLayer.dll
+C:\Users\CEM\source\repos\OP1\OP1.PhoneBook\bin\Debug\OP1.BussinessLogicLayer.pdb
+C:\Users\CEM\source\repos\OP1\OP1.PhoneBook\bin\Debug\OP1.Entities.pdb
+C:\Users\CEM\source\repos\OP1\OP1.PhoneBook\bin\Debug\OP1.DataBaseLogicLayer.pdb
+C:\Users\CEM\source\repos\OP1\OP1.PhoneBook\obj\Debug\OP1.PhoneBook.csprojAssemblyReference.cache
+C:\Users\CEM\source\repos\OP1\OP1.PhoneBook\obj\Debug\OP1.PhoneBook.Form1.resources
+C:\Users\CEM\source\repos\OP1\OP1.PhoneBook\obj\Debug\OP1.PhoneBook.Properties.Resources.resources
+C:\Users\CEM\source\repos\OP1\OP1.PhoneBook\obj\Debug\OP1.PhoneBook.csproj.GenerateResource.cache
+C:\Users\CEM\source\repos\OP1\OP1.PhoneBook\obj\Debug\OP1.PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\CEM\source\repos\OP1\OP1.PhoneBook\obj\Debug\OP1.PhoneBook.csproj.CopyComplete
+C:\Users\CEM\source\repos\OP1\OP1.PhoneBook\obj\Debug\OP1.PhoneBook.exe
+C:\Users\CEM\source\repos\OP1\OP1.PhoneBook\obj\Debug\OP1.PhoneBook.pdb

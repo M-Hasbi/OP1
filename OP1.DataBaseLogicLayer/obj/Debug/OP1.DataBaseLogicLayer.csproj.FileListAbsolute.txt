@@ -1,0 +1,9 @@
+C:\Users\CEM\source\repos\OP1\OP1.DataBaseLogicLayer\bin\Debug\OP1.DataBaseLogicLayer.dll
+C:\Users\CEM\source\repos\OP1\OP1.DataBaseLogicLayer\bin\Debug\OP1.DataBaseLogicLayer.pdb
+C:\Users\CEM\source\repos\OP1\OP1.DataBaseLogicLayer\bin\Debug\OP1.Entities.dll
+C:\Users\CEM\source\repos\OP1\OP1.DataBaseLogicLayer\bin\Debug\OP1.Entities.pdb
+C:\Users\CEM\source\repos\OP1\OP1.DataBaseLogicLayer\obj\Debug\OP1.DataBaseLogicLayer.csprojAssemblyReference.cache
+C:\Users\CEM\source\repos\OP1\OP1.DataBaseLogicLayer\obj\Debug\OP1.DataBaseLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\CEM\source\repos\OP1\OP1.DataBaseLogicLayer\obj\Debug\OP1.DataBaseLogicLayer.csproj.CopyComplete
+C:\Users\CEM\source\repos\OP1\OP1.DataBaseLogicLayer\obj\Debug\OP1.DataBaseLogicLayer.dll
+C:\Users\CEM\source\repos\OP1\OP1.DataBaseLogicLayer\obj\Debug\OP1.DataBaseLogicLayer.pdb
